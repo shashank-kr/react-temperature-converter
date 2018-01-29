@@ -1,0 +1,101 @@
+.container-main{
+    background-color: #fff;
+    position: relative;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    border: 0;
+    margin: 0;
+    padding: 30px 16px;
+}
+
+.tcontainer {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom:20px;
+    border-radius: 2px;
+    padding: 20px 16px 24px 16px;
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    width: 60%;
+}
+
+.tcontainer-header {
+    width: 449px;
+    margin-bottom: 10px;
+    background: whiteSmoke;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    font-size: 13px;
+    line-height: 20px;
+    padding: 5px 16px 5px 5px;
+}
+
+.form{
+    border: 1px solid #D9D9D9;
+    border-top: 1px solid silver;
+    font-size: 180%;
+    height: 40px;
+    padding: 1px 6px;
+    text-align: center;
+    width: 197px;
+    border-radius: 2px 2px 0 0;
+    border-radius: 2px 2px 0 0;
+}
+.form-label{
+    background-position-x: 95%;
+    width: 211px;
+    border-radius: 0 0 2px 2px;
+    margin-top: -1px;
+    border: 1px solid gainsboro;
+    font-size: 13px;
+    line-height: 10px;
+    padding: 5px 16px 5px 5px;
+    -webkit-appearance: button;
+    
+}
+
+.tcontainer-item {
+    display: inline-block;
+    width: 211px;
+    padding-top: 10px;
+}
+
+.separator {
+    display: inline-block;
+    line-height: 44px;
+    width: 27px;
+    text-align: center;
+    font-size: 26px;
+    color: #878787;
+    padding-top: 10px;
+    vertical-align: top;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+input {
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    border-color: initial;
+    border-image: initial;
+    border: 1px solid #D9D9D9;
+    border-top: 1px solid silver;
+    border-style: inset;
+    font-size: 140%;
+    height: 40px;
+    padding: 1px 6px;
+    text-align: center;
+    width: 211px;
+    border-radius: 2px 2px 0 0;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    margin: 0em;
+}
+
